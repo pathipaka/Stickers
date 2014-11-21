@@ -6,7 +6,6 @@ Week 4 Homework
 
 ![alt tag](Canvas_Stickers_Demo.gif)
 
-Time spent - 9 hrs
 
 Completed Tasks - 
 You should be able to drag the tray up or down.
